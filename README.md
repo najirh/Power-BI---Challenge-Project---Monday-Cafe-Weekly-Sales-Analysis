@@ -24,7 +24,7 @@ Create 3 key performance indicators (KPIs):
 
 1. **Total Sales**
 2. **Total Quantity Sold**
-3. **Total Profit**
+3. **Total Profit** [Any sales in dubai 15% profit, Abu Dhabi 12%, Sharjah 9%, Ajman 7%
 
 Each KPI must include:
 
