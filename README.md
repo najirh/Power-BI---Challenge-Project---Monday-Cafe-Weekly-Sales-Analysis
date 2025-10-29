@@ -1,7 +1,7 @@
 # Monday Cafe Power BI Project — Dashboard Challenge
 
 <div align="center">
-  <img src="YOUR_LOGO_LINK_HERE" alt="Monday Cafe Logo" width="400" height="400">
+  <img src="https://github.com/najirh/Power-BI---Challenge-Project---Monday-Cafe-Weekly-Sales-Analysis/blob/main/Monday%20Cafe%20Logo.png" alt="Monday Cafe Logo" width="400" height="400">
 </div>
 
 ---
